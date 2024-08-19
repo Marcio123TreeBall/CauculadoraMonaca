@@ -1,2 +1,41 @@
 /**/
 
+
+
+ .container {
+      background-color: #0a0707;
+      border-radius: 8px;
+      box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+      padding: 20px;
+      max-width: 400px;
+      margin: 40px auto;
+    }
+ 
+    
+     #somar {
+      background-color: #ffffff; 
+      color: rgb(19, 15, 15);
+      border: none; 
+      border-radius: 8px; 
+      padding: 10px 20px; 
+      font-size: 15px; 
+      margin-top: 10px;
+      margin-left: 60px;
+      padding-left: 100px;
+     padding-right: 100px;
+     justify-content: center;
+    }
+
+div.form-group label{
+color: blue;
+font-size: 30px;
+}
+
+    .form-group label h2{
+  color: blue;
+  font-size: 30px;
+}
+
+div.col-12 h1{
+    color: blue;
+}
